@@ -9,9 +9,6 @@
 
 <br>
 
-<p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
-
-
 - 🌱 I’m currently learning Web Development and other programming languages
 
 - 📫 How to reach me **martinhernan1996@gmail.com**
@@ -20,7 +17,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://www.linkedin.com/in/mart%C3%ADn-guastalegname-0a5685209" target="blank"></a>
+  <a href="https://www.linkedin.com/in/mart%C3%ADn-guastalegname-0a5685209"/a>
 </p>
 
 <br>
