@@ -9,7 +9,18 @@
 
 <br>
 
-- 🌱 I’m currently learning Web Development and other programming languages
+- 🌱 I'm a Full Stack web developer, specializing in JavaScript.
+I enjoy creating dynamic web solutions, spanning from
+the front-end to the back-end. With a strong foundation
+in HTML, CSS, and JavaScript, along with experience in
+frameworks such as React, Redux, Bootstrap, Express.js,
+PostgreSQL, Sequelize, and others. I am committed to
+crafting visually friendly web applications for users,
+keeping up-to-date with the latest web trends, excelling
+in problem-solving, and optimization. I can easily adapt
+to various work environments or requirements and have
+no trouble learning and handling projects using other
+languages and/or frameworks.
 
 - 📫 How to reach me **martinhernan1996@gmail.com**
 
